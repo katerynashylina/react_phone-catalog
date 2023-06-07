@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7cc95b3e.chunk.css",
+    "main.js": "./static/js/main.a7ed3244.chunk.js",
+    "main.js.map": "./static/js/main.a7ed3244.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/js/2.bc53466a.chunk.js": "./static/js/2.bc53466a.chunk.js",
+    "static/js/2.bc53466a.chunk.js.map": "./static/js/2.bc53466a.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.7cc95b3e.chunk.css.map": "./static/css/main.7cc95b3e.chunk.css.map",
+    "static/js/2.bc53466a.chunk.js.LICENSE.txt": "./static/js/2.bc53466a.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
+    "static/media/accessories.1229e359.png": "./static/media/accessories.1229e359.png",
+    "static/media/HotPhones.scss": "./static/media/arrow-right-black.7365d53e.svg",
+    "static/media/MainNavigation.scss": "./static/media/arrow-right.e028d388.svg",
+    "static/media/FootNavigation.scss": "./static/media/arrow-up-black.3ffcd791.svg",
+    "static/media/banner-accessories.bdd2e0fc.png": "./static/media/banner-accessories.bdd2e0fc.png",
+    "static/media/banner-phones.b4eeda8b.png": "./static/media/banner-phones.b4eeda8b.png",
+    "static/media/banner-tablets.a962057c.png": "./static/media/banner-tablets.a962057c.png",
+    "static/media/close.3ea864f5.svg": "./static/media/close.3ea864f5.svg",
+    "static/media/PhoneDetails.scss": "./static/media/favourites.dbd19c03.svg",
+    "static/media/home.d4c29e4f.svg": "./static/media/home.d4c29e4f.svg",
+    "static/media/logo.c9417692.svg": "./static/media/logo.c9417692.svg",
+    "static/media/phones.fe413224.png": "./static/media/phones.fe413224.png",
+    "static/media/search.eb670dd9.svg": "./static/media/search.eb670dd9.svg",
+    "static/media/HeadNavigation.scss": "./static/media/shoppingBag.1962e424.svg",
+    "static/media/tablets.7ae5b2db.png": "./static/media/tablets.7ae5b2db.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330dba63.js",
+    "static/js/2.bc53466a.chunk.js",
+    "static/css/main.7cc95b3e.chunk.css",
+    "static/js/main.a7ed3244.chunk.js"
+  ]
+}
